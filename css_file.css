@@ -16,7 +16,7 @@
   position: absolute;
   width: 87px ;
   height: 90px ;
-left : 160px ;
+left : 225px ;
 background-repeat: no-repeat;
 background-size: contain;
 }
@@ -29,7 +29,7 @@ background-size: contain;
   top : 10% ;
   width: 70% ;
   text-shadow: 4px 1px 4px #000000;
-  left: 20% ;
+  left: 24% ;
   font-weight: bold;
 }
 /*#D3D4E3*/
@@ -41,7 +41,7 @@ background-size: contain;
   color : white ;
   top : 55% ;
   width: 60% ;
-  left: 30% ;
+  left: 34% ;
   text-shadow: 4px 1px 4px #000000;
   font-weight: bold;
 }
@@ -319,7 +319,7 @@ a.font{
 }
 .x{
   word-wrap: break-word;
-  text-indent: 50 ;
+  text-indent : 45px ;
   padding-top: 13px ;
   position: absolute ;
   padding-left: 10px ;
