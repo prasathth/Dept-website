@@ -7,6 +7,9 @@
   top : 0% ;
   background-color: #6397DD ;
   background: linear-gradient(to bottom right, #01508C , white);
+  background:   -webkit-linear-gradient(to bottom right, #01508C , white);
+  background: -o-linear-gradient(to bottom right, #01508C , white);
+  background: -moz-linear-gradient(to bottom right, #01508C , white);
   box-shadow:5px 5px 5px #888888;
 
 }
@@ -61,6 +64,10 @@ background-size: contain;
   height: 75%;
   top : 25%;
   background: linear-gradient(to bottom right , white , #E2ECF3);
+  background: -webkit-linear-gradient(to bottom right , white , #E2ECF3);
+  background: -o-linear-gradient(to bottom right , white , #E2ECF3);
+  background: -moz-linear-gradient(to bottom right , white , #E2ECF3);
+
 }
 ul {
     list-style-type: none;
@@ -347,6 +354,9 @@ a.font{
   background-color: #B8CFE0 ;
   box-shadow:3px 5px 20px #888888;
   background: linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 ); /* Standard syntax */
+  background: -moz-linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 );
+  background: -o-linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 );
+  background: -webkit-linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 );
 }
 
 
@@ -421,6 +431,9 @@ top : 25px;
   background-color: #B8CFE0 ;
   box-shadow:3px 5px 20px #888888;
   background: linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 ); /* Standard syntax */
+  background: -webkit-linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 );
+  background: -o-linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 );
+  background: -moz-linear-gradient(to right, #B8CFE0 , #E3EAF0 , #B8CFE0 );
   display: none ;
 }
 
